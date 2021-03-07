@@ -14,6 +14,7 @@
 	<link href="{{ asset('css/custom.css') }}" rel="stylesheet"/>
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
 	@yield('customcss')
+	<!-- THIS DASHBOARD BASED ON https://adminlte.io/themes/AdminLTE/index2.html -->
     </head>
     <body class="hold-transition skin-blue sidebar-mini">
 	<div class="wrapper">
